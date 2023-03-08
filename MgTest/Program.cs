@@ -25,4 +25,9 @@
             Console.WriteLine($"{this.Centimeter}cm 는 {this.Inch} inch 입니다.");
         }
     }
+
+    public void Bata()
+    {
+
+    }
 }
